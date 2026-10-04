@@ -29,7 +29,10 @@ KhataVaani is a voice-first AI agent that:
 All AI calls run server-side; API keys never reach the client.
 
 ## Status
-🚧 Idea stage. The working build happens live during the 24-hour Hack Sprint (Oct 17–18, 2026).
+Idea stage. The working build happens live during the 24-hour Hack Sprint (Oct 17–18, 2026).
 
 ## Team
-_Add team member names and roles here._
+Likhit
+Taneev
+Saiyam
+Shashank
